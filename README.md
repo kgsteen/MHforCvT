@@ -8,4 +8,4 @@ Depends on a set of outputs from mh.py file, which should be run first to genera
   - TotArr_yyyy.dat -- file containing the n_ij counts ... sized NumberOfTemperatures x ConfigurationEnergyBins
   - Gasum_yyyy.dat -- file contiaining the average energy and temperature per simulation temperature
     
-Some parts are hard coded and should be modified - these are listed in the comments of the script header.
+Some parts of both scripts are hard coded and should be modified - these are listed in the comments of the script header.
