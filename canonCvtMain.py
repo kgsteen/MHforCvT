@@ -1,4 +1,3 @@
-#! /Library/Frameworks/Python.framework/Versions/3.12/bin/python
 import numpy as np
 from numpy.linalg import pinv
 import matplotlib.pyplot as plt
