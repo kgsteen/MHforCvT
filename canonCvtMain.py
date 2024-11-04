@@ -107,7 +107,7 @@ def canon_calc_zt(Tarr, Nv, Sj, Vj, sjInd, kb):
 # Main script 
 if __name__ == "__main__":
 
-    rtDir = '/Users/gracie/Desktop/mhCvT/pyScr'				# set this to a root directory where you will keep the files
+    rtDir = '/path/to/mhPY/output'				# set this to a root directory where you will keep the files
     tail = 'triL'
     if tail == 'biL':
         Tarr = np.arange(250, 401)
