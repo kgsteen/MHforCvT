@@ -13,7 +13,7 @@ tempAr = np.arange(stTmp, endTmp + 1, dT)		# create the temperature array
 binNum = 1000
 tail = 'biL'
 
-mhDir = '/Users/gracie/Desktop/mhCvT'		# this is where you want to output the files - mh_ttt.dat, TotMh_biL.dat, etc.
+mhDir = '/path/to/OUTCAR/files'		# this is where you want to output the files - mh_ttt.dat, TotMh_biL.dat, etc.
 
 # name the total-array file that will contain the sum of all the individual histograms, formatted for for the CvT analysis program
 fwTotArr = '%s/TotArr_%s.dat' % (mhDir, tail)
